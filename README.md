@@ -25,6 +25,7 @@ Carry = AB + ACin + BCin
 ![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/0f30ba51-5ffb-4198-845f-18e054f675e7)
 
 **Figure -1 FULL ADDER**
+![Screenshot 2024-11-30 184459](https://github.com/user-attachments/assets/612eecf7-836f-47ef-8f98-c7ae0aa2ff14)
 
 **Full Subtractor**
 
@@ -37,6 +38,7 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+![Screenshot 2024-11-30 184452](https://github.com/user-attachments/assets/95081e2b-446d-4f8f-aa8d-fc98bc673d88)
 
 **Procedure**
 
